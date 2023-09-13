@@ -24,6 +24,11 @@ header {
     color:#DEC9E9;
 }
 
+.faves {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
 footer {
     background-color: #000;
     color: #fff;
