@@ -16,6 +16,12 @@ html {
     max-width: 1200px;
     margin: center;
     background-color: blueviolet;
+    align-content: center;
+}
+
+.header {
+    background-color: #000;
+    color: #fff;
 }
 
 font-family: 'Wix Madefor Display', sans-serif;
