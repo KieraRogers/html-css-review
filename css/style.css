@@ -6,7 +6,7 @@ html {
     box-sizing: inherit;
 }
 
-.body {
+body {
     font-family: 'Nunito', sans-serif;
     color: #131111;
     line-height: 1.5;
@@ -15,7 +15,7 @@ html {
 .wrapper {
     max-width: 1200px;
     margin: auto;
-    background-color: blueviolet;
+    background-color: #7251B5;
     align-content: center;
 }
 
