@@ -1,0 +1,39 @@
+html {
+    box-sizing: boarder-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #fff;
+    line-height: 1.5;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: auto;
+    background-color: #6647A6;
+    align-content: center;
+}
+
+header {
+    background-color: #000;
+    color:#DEC9E9;
+}
+
+.faves {
+    background-color: #000;
+    color: #DEC9E9;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+}
+
+
+
+font-family: 'Wix Madefor Display', sans-serif;
